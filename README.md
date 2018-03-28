@@ -1,2 +1,0 @@
-# ToxicMensagens
-Plugin de AutoMensagens
